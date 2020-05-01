@@ -19,3 +19,9 @@ body {
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: rgb(12, 160, 160);
   }
+
+  .active {
+    background-color: rgb(12, 160, 160);
+  }
+
+
